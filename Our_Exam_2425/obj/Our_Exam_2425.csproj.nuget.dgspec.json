@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Our_Exam_2425.csproj": {}
+    "/workspace/Our_Exam_2425/Our_Exam_2425.csproj": {}
   },
   "projects": {
-    "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Our_Exam_2425.csproj": {
+    "/workspace/Our_Exam_2425/Our_Exam_2425.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Our_Exam_2425.csproj",
+        "projectUniqueName": "/workspace/Our_Exam_2425/Our_Exam_2425.csproj",
         "projectName": "Our_Exam_2425",
-        "projectPath": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Our_Exam_2425.csproj",
-        "packagesPath": "C:\\Users\\Farah el khatib\\.nuget\\packages\\",
-        "outputPath": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\obj\\",
+        "projectPath": "/workspace/Our_Exam_2425/Our_Exam_2425.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/workspace/Our_Exam_2425/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Farah el khatib\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\OfflineNugetPackages1\\OfflineNuggetPackages": {},
-          "C:\\OfflineNugetPackages\\OfflineNuggetPackages": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -346,7 +339,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/ubuntu/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
