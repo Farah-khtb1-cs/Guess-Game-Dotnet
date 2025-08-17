@@ -1,6 +1,6 @@
-# Our_Exam_2425
+# Gess Game
 
-**Our_Exam_2425** is a simple Numbers Game web application built with ASP.NET Core 8.0 using Razor Pages and Minimal API. Players select two numbers to compete against a bot's randomly generated numbers, with all game results stored and displayed through a clean, responsive interface.
+**Gess Game** is a simple Numbers Game web application built with ASP.NET Core 8.0 using Razor Pages and Minimal API. Players select two numbers to compete against a bot's randomly generated numbers, with all game results stored and displayed through a clean, responsive interface.
 
 ## 🎮 Game Rules
 
