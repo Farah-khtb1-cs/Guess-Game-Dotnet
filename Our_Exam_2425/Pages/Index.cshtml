@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    Random random = new Random();
+    int X = random.Next(1, 10);
+    int Y = random.Next(1, 10);
+}
+<h1>Numbers Game</h1>
+<div asp-validation-summary="All" class="danger"></div>
+
+<form method="post" asp-route-X="@X" asp-route-Y="@Y" enctype="multipart/form-data">
+
+    <div class="form-group">
+        <label asp-for="GameBinding.A"></label>
+        <input asp-for="GameBinding.A" />
+        <span asp-validation-for="GameBinding.A"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameBinding.B"></label>
+        <input asp-for="GameBinding.B" />
+        <span asp-validation-for="GameBinding.B"></span>
+    </div>
+
+    <button type="submit"class="btn btn-primary">Play</button>
+</form>
+<br>  
+<a href="/GameHistory" class="btn btn-primary">View Game History</a>
+
+@section Scripts {
+    @Html.Partial("_ValidationScriptsPartial")
+}

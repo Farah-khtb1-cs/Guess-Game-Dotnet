@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\gameresult.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\gameresult.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\service\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\service\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\service\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\service\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\gamehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\gamehistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\gameresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\gameresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\filters\\gamevalidationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\filters\\gamevalidationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\pages\\gamehistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\pages\\gamehistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\migrations\\20250710075922_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\migrations\\20250710075922_initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\model\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\model\\gameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\model\\gamebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\model\\gamebinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|g:\\my drive\\my projects\\guess_game_dotnet8\\our_exam_2425\\migrations\\20250710064908_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C25D7D-E8E2-4802-9EA9-0C95B4B65160}|Our_Exam_2425\\Our_Exam_2425.csproj|solutionrelative:our_exam_2425\\migrations\\20250710064908_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameHistory.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameHistory.cshtml",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\GameHistory.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameHistory.cshtml",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\GameHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T08:07:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameResult.cshtml.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\GameResult.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameResult.cshtml.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\GameResult.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:32:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameResult.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameResult.cshtml",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\GameResult.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameResult.cshtml",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\GameResult.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T07:32:26.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Program.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Program.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Program.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:46:44.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\Index.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:01:47.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\Index.cshtml",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T06:59:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Service\\IServices.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Service\\IServices.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Service\\IServices.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Service\\IServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:45:31.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Services.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Service\\Services.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Service\\Services.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Service\\Services.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Service\\Services.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:52:32.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameValidationFilter.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Filters\\GameValidationFilter.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Filters\\GameValidationFilter.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Filters\\GameValidationFilter.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Filters\\GameValidationFilter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:27:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameHistory.cshtml.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameHistory.cshtml.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Pages\\GameHistory.cshtml.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Pages\\GameHistory.cshtml.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Pages\\GameHistory.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:07:39.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250710075922_initial1.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Migrations\\20250710075922_initial1.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Migrations\\20250710075922_initial1.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Migrations\\20250710075922_initial1.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Migrations\\20250710075922_initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:59:23.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Game.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\Game.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Model\\Game.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\Game.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Model\\Game.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:36:13.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameBinding.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\GameBinding.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Model\\GameBinding.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\GameBinding.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Model\\GameBinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:39:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameView.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\GameView.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Model\\GameView.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Model\\GameView.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Model\\GameView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:44:30.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250710064908_initial.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Migrations\\20250710064908_initial.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Migrations\\20250710064908_initial.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Migrations\\20250710064908_initial.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Migrations\\20250710064908_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:49:08.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\appsettings.json",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\appsettings.json",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\appsettings.json",
+              "RelativeToolTip": "Our_Exam_2425\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T06:46:08.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Our_Exam_2425\\Data\\AppDbContext.cs",
+              "ToolTip": "G:\\My Drive\\My projects\\Guess_Game_dotnet8\\Our_Exam_2425\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Our_Exam_2425\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:33:52.439Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 432,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

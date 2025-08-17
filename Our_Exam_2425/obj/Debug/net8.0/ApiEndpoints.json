@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
+    "RelativePath": "play/{a:int:range(1,10)}/{b:int:range(1,10)}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "b",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "PlayGame",
+    "Description": "Play the game with values A and B. Random X and Y will be generated. Winner is determined by highest sum.",
+    "Summary": "Play the number game"
+  }
+]

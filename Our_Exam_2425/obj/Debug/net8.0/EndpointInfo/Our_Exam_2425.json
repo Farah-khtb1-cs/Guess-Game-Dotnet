@@ -1,0 +1,49 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Our_Exam_2425",
+    "version": "1.0"
+  },
+  "paths": {
+    "/play/{a}/{b}": {
+      "get": {
+        "tags": [
+          "Our_Exam_2425"
+        ],
+        "summary": "Play the number game",
+        "description": "Play the game with values A and B. Random X and Y will be generated. Winner is determined by highest sum.",
+        "operationId": "PlayGame",
+        "parameters": [
+          {
+            "name": "a",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "maximum": 10,
+              "minimum": 1,
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "b",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "maximum": 10,
+              "minimum": 1,
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

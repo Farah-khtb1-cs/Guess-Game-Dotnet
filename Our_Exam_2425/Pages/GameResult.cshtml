@@ -1,0 +1,55 @@
+﻿@page
+@using Our_Exam_2425.Model
+@model Our_Exam_2425.Pages.GameResultModel
+@{
+}
+<h1>Game Result</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Player Score</th>
+            <th>Bot Score</th>
+        </tr>
+    </thead>
+    <tbody>
+            <tr>
+            <td>@Model.GameView.PlayerScore</td>
+            <td>@Model.GameView.BotScore</td>
+            </tr>
+    </tbody>
+</table>
+    Time of PLay is @Model.GameView.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")
+<br />
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>DateTime</th>
+            <th>A</th>
+            <th>B</th>
+            <th>X</th>
+            <th>Y</th>
+            <th>PlayerScore</th>
+            <th>BotScore</th>
+            <th>Winner</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Game in Model.Games)
+        {
+            <tr>
+                <td>@Game.CreatedAt.ToString("dd/MM/yyyy HH:mm:ss")</td>
+                <td>@Game.A</td>
+                <td>@Game.B</td>
+                <td>@Game.X</td>
+                <td>@Game.Y</td>
+                <td>@Game.PlayerScore</td>
+                <td>@Game.BotScore</td>
+                <td>@Game.Winner</td>
+            </tr>
+        }
+    </tbody>
+
+    <a href="/Index" class="btn btn-primary">Play Again</a>
